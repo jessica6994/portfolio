@@ -1,0 +1,31 @@
+/*
+colors:
+dark ochre #8f7103
+ochre #cca104
+navy #29304a
+*/
+body{
+  background-image:url("bg.png");
+}
+.nav-link{
+  margin-left:25px;
+  margin-right:25px;
+  font-family:monospace;
+  font-size: 20px;
+}
+.nav-link:hover{
+  background-color: #8f7103;
+}
+.jctitle{
+  margin-top: 80px;
+  color: #29304a;
+}
+.toprow{
+  margin-top: 200px;
+}
+.innerrow{
+  margin-top: 60px;
+}
+.monospace{
+  font-family:monospace;
+}
